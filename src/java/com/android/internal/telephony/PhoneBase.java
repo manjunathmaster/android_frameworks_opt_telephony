@@ -1764,7 +1764,7 @@ public abstract class PhoneBase extends Handler implements Phone {
             }
             return;
         }
-/*
+*/
         int filteredRaf = (rafFromType);
         int filteredType = RadioAccessFamily.getNetworkTypeFromRaf(filteredRaf);
 
